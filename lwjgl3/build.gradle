@@ -7,6 +7,7 @@ buildscript {
     if (enableGraalNative == 'true') {
       classpath "org.graalvm.buildtools.native:org.graalvm.buildtools.native.gradle.plugin:0.9.28"
     }
+    classpath "com.badlogicgames.gdx:gdx-tools:1.12.1"
   }
 }
 plugins {
@@ -43,6 +44,7 @@ dependencies {
   implementation "com.badlogicgames.gdx:gdx-backend-lwjgl3:$gdxVersion"
   implementation "com.badlogicgames.gdx:gdx-lwjgl3-angle:$gdxVersion"
   implementation "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
+  implementation "com.badlogicgames.gdx:gdx-tools:$gdxVersion"
   implementation project(':core')
 
   if (enableGraalNative == 'true') {
@@ -189,4 +191,19 @@ startScripts.classpath = project.tasks.jar.outputs.files
 
 if (enableGraalNative == 'true') {
   apply from: file("nativeimage.gradle")
+}
+
+
+import com.badlogic.gdx.tools.texturepacker.TexturePacker;
+
+tasks.register('createBodyTextureAtlas') {
+  doLast {
+    def spritesDir = new File(rootProject.projectDir, 'assets/raw/sprites/16x16/terrain')
+    def atlasDir = new File(rootProject.projectDir, 'assets/sprites/terrain')
+
+    // Ensure the atlas directory exists
+    atlasDir.mkdirs()
+
+    TexturePacker.process(spritesDir.absolutePath, atlasDir.absolutePath, '16x16_terrain.atlas')
+  }
 }

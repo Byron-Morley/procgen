@@ -9,14 +9,18 @@ import com.badlogic.gdx.utils.viewport.ScreenViewport;
 import com.liquidpixel.core.api.ICameraManager;
 import com.liquidpixel.core.engine.GameResources;
 import com.liquidpixel.main.api.managers.IGameManager;
+import com.liquidpixel.main.factories.ComponentFactory;
 import com.liquidpixel.main.managers.CameraManager;
 import com.liquidpixel.main.managers.GameManager;
 import com.liquidpixel.main.services.MapService;
+import com.liquidpixel.main.systems.RenderSystem;
 import com.liquidpixel.pool.api.ITaskManager;
 import com.liquidpixel.pool.managers.TaskManager;
 import com.liquidpixel.procgen.config.MapConfiguration;
+import com.liquidpixel.sprite.SpriteAnimationModule;
+import com.liquidpixel.sprite.api.ISpriteAnimationModule;
 import com.liquidpixel.sprite.api.factory.ISpriteFactory;
-import com.liquidpixel.sprite.factory.SpriteFactory;
+import com.liquidpixel.sprite.registry.SpriteItemRegistry;
 
 public class ProcGenScreen implements Screen {
 
@@ -25,9 +29,13 @@ public class ProcGenScreen implements Screen {
     private Engine engine;
     private Stage stage;
 
+    //    MODULES
+    ISpriteAnimationModule spriteModule;
+
+    //    FACTORIES
+    ISpriteFactory spriteFactory;
 
     ITaskManager taskManager;
-    ISpriteFactory spriteFactory;
     MapService mapService;
     // Managers
     private ICameraManager cameraManager;
@@ -61,8 +69,19 @@ public class ProcGenScreen implements Screen {
 
     private void initializeModules() {
 
+        spriteModule = new SpriteAnimationModule(
+            "models/sprites/atlas.json",
+            null,
+            "models/sprites/animations.json"
+        );
+
+        spriteFactory = spriteModule.getSpriteFactory();
+
+        // Load sprite items for layer resolution
+        SpriteItemRegistry registry = spriteModule.loadSpriteItems("models/item/items.json", "models/item/slots.json");
+        spriteModule.setComponentFactory(new ComponentFactory());
+
         taskManager = new TaskManager();
-        spriteFactory = new SpriteFactory();
 
         MapConfiguration mapConfiguration = new MapConfiguration(
             128, 128, 16, 16, 8, 8
@@ -94,9 +113,8 @@ public class ProcGenScreen implements Screen {
     public void initializeListeners() {
 
     }
-
     public void initializeSystems() {
-        Engine engine = resources.getEngine();
+        engine.addSystem(new RenderSystem());
     }
 
     public void start() {
@@ -109,10 +127,9 @@ public class ProcGenScreen implements Screen {
     public void render(float delta) {
         cameraManager.render(delta, resources.getBatch());
         resources.getBatch().begin();
-//        mapService.getRenderer().render(delta);
+        mapService.getRenderer().render(delta);
         engine.update(delta);
         resources.getBatch().end();
-
         taskManager.tick(delta);
     }
 

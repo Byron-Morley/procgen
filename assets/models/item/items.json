@@ -1,0 +1,284 @@
+{
+  "items": {
+    "human": {
+      "label": "Male Body",
+      "sprite": "01body/fbas_01body_human_00",
+      "slot": "BODY"
+    },
+    "spiky_hair": {
+      "label": "Spiky Hair",
+      "sprite": "13hair/fbas_13hair_spiky1_00",
+      "slot": "HAIR_BASE"
+    },
+    "afro": {
+      "label": "Afro Hair",
+      "sprite": "13hair/fbas_13hair_afro_00",
+      "slot": "HAIR_BASE"
+    },
+    "afropuffs": {
+      "label": "Afro Puffs",
+      "sprite": "13hair/fbas_13hair_afropuffs_00",
+      "slot": "HAIR_BASE"
+    },
+    "bob1": {
+      "label": "Bob Haircut",
+      "sprite": "13hair/fbas_13hair_bob1_00",
+      "slot": "HAIR_BASE"
+    },
+    "bob2": {
+      "label": "Bob Haircut 2",
+      "sprite": "13hair/fbas_13hair_bob2_00",
+      "slot": "HAIR_BASE"
+    },
+    "dapper": {
+      "label": "Dapper Hair",
+      "sprite": "13hair/fbas_13hair_dapper_00",
+      "slot": "HAIR_BASE"
+    },
+    "flattop": {
+      "label": "Flat Top",
+      "sprite": "13hair/fbas_13hair_flattop_00",
+      "slot": "HAIR_BASE"
+    },
+    "longwavy": {
+      "label": "Long Wavy Hair",
+      "sprite": "13hair/fbas_13hair_longwavy_00",
+      "slot": "HAIR_BASE"
+    },
+    "mohawk": {
+      "label": "Mohawk",
+      "sprite": "13hair/fbas_13hair_mohawk_00_e",
+      "slot": "HAIR_BASE"
+    },
+    "ponytail1": {
+      "label": "Ponytail",
+      "sprite": "13hair/fbas_13hair_ponytail1_00",
+      "slot": "HAIR_BASE"
+    },
+    "spiky2": {
+      "label": "Spiky Hair 2",
+      "sprite": "13hair/fbas_13hair_spiky2_00",
+      "slot": "HAIR_BASE"
+    },
+    "twintail": {
+      "label": "Twin Tails",
+      "sprite": "13hair/fbas_13hair_twintail_00",
+      "slot": "HAIR_BASE"
+    },
+    "twists": {
+      "label": "Twists",
+      "sprite": "13hair/fbas_13hair_twists_00",
+      "slot": "HAIR_BASE"
+    },
+    "glasses": {
+      "label": "Glasses",
+      "sprite": "12face/fbas_12face_glasses_00a",
+      "slot": "EYES"
+    },
+    "shades": {
+      "label": "Sunglasses",
+      "sprite": "12face/fbas_12face_shades_00a",
+      "slot": "EYES"
+    },
+    "cloak_plain": {
+      "label": "Plain Cloak",
+      "sprite": "11neck/fbas_11neck_cloakplain_00d",
+      "slot": "NECK"
+    },
+    "cloak_mantle": {
+      "label": "Cloak With Mantle",
+      "sprite": "11neck/fbas_11neck_cloakwithmantleplain_00b",
+      "slot": "NECK"
+    },
+    "mantle_plain": {
+      "label": "Plain Mantle",
+      "sprite": "11neck/fbas_11neck_mantleplain_00b",
+      "slot": "NECK"
+    },
+    "scarf": {
+      "label": "Scarf",
+      "sprite": "11neck/fbas_11neck_scarf_00b",
+      "slot": "NECK"
+    },
+    "bra": {
+      "label": "Bra",
+      "sprite": "05shrt/fbas_05shrt_bra_00a",
+      "slot": "CHEST"
+    },
+    "long_shirt": {
+      "label": "Long Shirt",
+      "sprite": "05shrt/fbas_05shrt_longshirt_00a",
+      "slot": "CHEST"
+    },
+    "longshirt_boobs": {
+      "label": "Long Shirt With Boobs",
+      "sprite": "05shrt/fbas_05shrt_longshirtboobs_00a",
+      "slot": "CHEST"
+    },
+    "short_shirt": {
+      "label": "Short Shirt",
+      "sprite": "05shrt/fbas_05shrt_shortshirt_00a",
+      "slot": "CHEST"
+    },
+    "shortshirt_boobs": {
+      "label": "Short Shirt With Boobs",
+      "sprite": "05shrt/fbas_05shrt_shortshirtboobs_00a",
+      "slot": "CHEST"
+    },
+    "tanktop": {
+      "label": "Tank Top",
+      "sprite": "05shrt/fbas_05shrt_tanktop_00a",
+      "slot": "CHEST"
+    },
+    "tanktop_boobs": {
+      "label": "Tank Top With Boobs",
+      "sprite": "05shrt/fbas_05shrt_tanktopboobs_00a",
+      "slot": "CHEST"
+    },
+    "gloves": {
+      "label": "Gloves",
+      "sprite": "09hand/fbas_09hand_gloves_00a",
+      "slot": "HANDS"
+    },
+    "suspenders": {
+      "label": "Suspenders",
+      "sprite": "10outr/fbas_10outr_suspenders_00a",
+      "slot": "OUTER"
+    },
+    "vest": {
+      "label": "Vest",
+      "sprite": "10outr/fbas_10outr_vest_00a",
+      "slot": "OUTER"
+    },
+    "long_pants": {
+      "label": "Long Pants",
+      "sprite": "04lwr1/fbas_04lwr1_longpants_00a",
+      "slot": "PANTS"
+    },
+    "onepiece": {
+      "label": "One Piece",
+      "sprite": "04lwr1/fbas_04lwr1_onepiece_00a",
+      "slot": "PANTS"
+    },
+    "onepiece_boobs": {
+      "label": "One Piece With Boobs",
+      "sprite": "04lwr1/fbas_04lwr1_onepieceboobs_00a",
+      "slot": "PANTS"
+    },
+    "shorts": {
+      "label": "Shorts",
+      "sprite": "04lwr1/fbas_04lwr1_shorts_00a",
+      "slot": "PANTS"
+    },
+    "undies": {
+      "label": "Undies",
+      "sprite": "04lwr1/fbas_04lwr1_undies_00a",
+      "slot": "PANTS"
+    },
+    "overalls": {
+      "label": "Overalls",
+      "sprite": "06lwr2/fbas_06lwr2_overalls_00a",
+      "slot": "PANTS"
+    },
+    "overalls_boobs": {
+      "label": "Overalls With Boobs",
+      "sprite": "06lwr2/fbas_06lwr2_overallsboobs_00a",
+      "slot": "PANTS"
+    },
+    "shortalls": {
+      "label": "Short Overalls",
+      "sprite": "06lwr2/fbas_06lwr2_shortalls_00a",
+      "slot": "PANTS"
+    },
+    "shortalls_boobs": {
+      "label": "Short Overalls With Boobs",
+      "sprite": "06lwr2/fbas_06lwr2_shortallsboobs_00a",
+      "slot": "PANTS"
+    },
+    "frilly_dress": {
+      "label": "Frilly Dress",
+      "sprite": "08lwr3/fbas_08lwr3_frillydress_00a",
+      "slot": "PANTS"
+    },
+    "frilly_dress_boobs": {
+      "label": "Frilly Dress With Boobs",
+      "sprite": "08lwr3/fbas_08lwr3_frillydressboobs_00a",
+      "slot": "PANTS"
+    },
+    "frilly_skirt": {
+      "label": "Frilly Skirt",
+      "sprite": "08lwr3/fbas_08lwr3_frillyskirt_00a",
+      "slot": "PANTS"
+    },
+    "long_dress": {
+      "label": "Long Dress",
+      "sprite": "08lwr3/fbas_08lwr3_longdress_00a",
+      "slot": "PANTS"
+    },
+    "long_dress_boobs": {
+      "label": "Long Dress With Boobs",
+      "sprite": "08lwr3/fbas_08lwr3_longdressboobs_00a",
+      "slot": "PANTS"
+    },
+    "long_skirt": {
+      "label": "Long Skirt",
+      "sprite": "08lwr3/fbas_08lwr3_longskirt_00a",
+      "slot": "PANTS"
+    },
+    "boots": {
+      "label": "Boots",
+      "sprite": "03fot1/fbas_03fot1_boots_00a",
+      "slot": "SHOES"
+    },
+    "sandals": {
+      "label": "Sandals",
+      "sprite": "03fot1/fbas_03fot1_sandals_00a",
+      "slot": "SHOES"
+    },
+    "shoes": {
+      "label": "Shoes",
+      "sprite": "03fot1/fbas_03fot1_shoes_00a",
+      "slot": "SHOES"
+    },
+    "cuffed_boots": {
+      "label": "Cuffed Boots",
+      "sprite": "07fot2/fbas_07fot2_cuffedboots_00a",
+      "slot": "SHOES"
+    },
+    "curly_toe_shoes": {
+      "label": "Curly Toe Shoes",
+      "sprite": "07fot2/fbas_07fot2_curlytoeshoes_00a",
+      "slot": "SHOES"
+    },
+    "socks_high": {
+      "label": "High Socks",
+      "sprite": "02sock/fbas_02sock_sockshigh_00a",
+      "slot": "SOCKS"
+    },
+    "socks_low": {
+      "label": "Low Socks",
+      "sprite": "02sock/fbas_02sock_sockslow_00a",
+      "slot": "SOCKS"
+    },
+    "stockings": {
+      "label": "Stockings",
+      "sprite": "02sock/fbas_02sock_stockings_00a",
+      "slot": "SOCKS"
+    },
+    "under_cloak": {
+      "label": "Under Cloak",
+      "sprite": "00undr/fbas_00undr_cloakplain_00d",
+      "slot": "UNDER"
+    },
+    "under_cloak_mantle": {
+      "label": "Under Cloak With Mantle",
+      "sprite": "00undr/fbas_00undr_cloakwithmantleplain_00b",
+      "slot": "UNDER"
+    },
+    "cowboy_hat": {
+      "label": "Cowboy Hat",
+      "sprite": "14head/fbas_14head_cowboyhat_01",
+      "slot": "HEAD"
+    }
+  }
+}

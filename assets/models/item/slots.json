@@ -1,0 +1,80 @@
+{
+  "slots": {
+    "SHADOW": {
+      "renderPriority": 4,
+      "ramp": "3color"
+    },
+    "BODY": {
+      "renderPriority": 5,
+      "ramp": "skin"
+    },
+    "HAIR_BASE": {
+      "renderPriority": 6,
+      "ramp": "hair"
+    },
+    "EYES": {
+      "renderPriority": 8,
+      "ramp": "3color"
+    },
+    "HEAD": {
+      "renderPriority": 9,
+      "ramp": "none"
+    },
+    "BELT": {
+      "renderPriority": 11,
+      "ramp": "3color"
+    },
+    "UNDER": {
+      "renderPriority": 11,
+      "ramp": "3color"
+    },
+    "CHEST": {
+      "renderPriority": 12,
+      "ramp": "3color"
+    },
+    "OUTER": {
+      "renderPriority": 12,
+      "ramp": "3color"
+    },
+    "PANTS": {
+      "renderPriority": 13,
+      "ramp": "3color"
+    },
+    "GLOVES": {
+      "renderPriority": 13,
+      "ramp": "3color"
+    },
+    "SOCKS": {
+      "renderPriority": 13,
+      "ramp": "3color"
+    },
+    "SHOES": {
+      "renderPriority": 14,
+      "ramp": "3color"
+    },
+    "WEAPON": {
+      "renderPriority": 15,
+      "ramp": "3color"
+    },
+    "SHIELD": {
+      "renderPriority": 16,
+      "ramp": "3color"
+    },
+    "BOW": {
+      "renderPriority": 17,
+      "ramp": "3color"
+    },
+    "RING": {
+      "renderPriority": 18,
+      "ramp": "3color"
+    },
+    "NECK": {
+      "renderPriority": 19,
+      "ramp": "3color"
+    },
+    "HANDS": {
+      "renderPriority": 20,
+      "ramp": "3color"
+    }
+  }
+}

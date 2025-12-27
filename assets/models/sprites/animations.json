@@ -1,0 +1,1536 @@
+{
+  "animations": {
+    "DEFAULT": {
+      "name": "DEFAULT",
+      "frameDuration": 0.1,
+      "subAnimations": {
+        "IDLE": {
+          "cells": [
+            {
+              "cell": -1,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        }
+      }
+    },
+    "FARM_RESOURCE": {
+      "name": "DEFAULT",
+      "frameDuration": 0.1,
+      "subAnimations": {
+        "IDLE": {
+          "cells": [
+            {
+              "cell": 0,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        }
+      }
+    },
+    "FARMABLE": {
+      "name": "DEFAULT",
+      "frameDuration": 0.1,
+      "subAnimations": {
+        "IDLE": {
+          "cells": [
+            {
+              "cell": 2,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "GROWING": {
+          "cells": [
+            {
+              "cell": 2,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 3,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 4,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 5,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 6,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 7,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "NORMAL"
+        }
+      }
+    },
+    "DOOR": {
+      "name": "DOOR",
+      "frameDuration": 0.1,
+      "subAnimations": {
+        "IDLE": {
+          "cells": [
+            {
+              "cell": 1,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CLOSED": {
+          "cells": [
+            {
+              "cell": 1,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "OPEN": {
+          "cells": [
+            {
+              "cell": 3,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "OPENING": {
+          "cells": [
+            {
+              "cell": 1,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 2,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 3,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "NORMAL"
+        },
+        "CLOSING": {
+          "cells": [
+            {
+              "cell": 3,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 2,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 1,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "NORMAL"
+        }
+      }
+    },
+    "TOOL": {
+      "name": "TOOL",
+      "frameDuration": 0.1,
+      "subAnimations": {
+        "IDLE": {
+          "cells": [
+            {
+              "cell": 0,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CHOP_DOWN": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 1,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 2,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 3,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 3,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CHOP_UP": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 4,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 5,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 6,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 6,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CHOP_RIGHT": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 7,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 8,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 9,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 9,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CHOP_LEFT": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 7,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 8,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 9,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": null,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "STRIKE_DOWN": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 128,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 129,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 130,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 130,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "STRIKE_UP": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 144,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 145,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 146,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 146,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "STRIKE_RIGHT": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 160,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 161,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 162,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 162,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "STRIKE_LEFT": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 160,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 161,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 162,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 162,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CAST_DOWN": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 1,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 2,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 3,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 4,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CAST_UP": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 5,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 6,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 7,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 8,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CAST_RIGHT": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 9,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 10,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 11,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 12,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CAST_LEFT": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 9,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 10,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 11,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 12,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "BITE_DOWN": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 13,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 14,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "BITE_UP": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 15,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 16,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "BITE_RIGHT": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 17,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 18,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "BITE_LEFT": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 17,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 18,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CATCH_DOWN": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 19,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 20,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CATCH_UP": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 21,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 22,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CATCH_RIGHT": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 23,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 24,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CATCH_LEFT": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 23,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 24,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        }
+      }
+    },
+    "TILED": {
+      "name": "TILED",
+      "frameDuration": 0.1,
+      "subAnimations": {
+        "IDLE": {
+          "cells": [
+            {
+              "cell": 0,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        }
+      }
+    },
+    "RIVER": {
+      "name": "RIVER",
+      "frameDuration": 0.4,
+      "subAnimations": {
+        "IDLE": {
+          "cells": [
+            {
+              "cell": 0,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 1,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 2,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 3,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        }
+      }
+    },
+    "AGENT": {
+      "name": "AGENT",
+      "frameDuration": 0.1,
+      "subAnimations": {
+        "STANDING_UP": {
+          "cells": [
+            {
+              "cell": 16,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "STANDING_DOWN": {
+          "cells": [
+            {
+              "cell": 0,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "STANDING_LEFT": {
+          "cells": [
+            {
+              "cell": 32,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "STANDING_RIGHT": {
+          "cells": [
+            {
+              "cell": 32,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "WALKING_UP": {
+          "cells": [
+            {
+              "cell": 52,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 53,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 54,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 52,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 53,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 54,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "WALKING_DOWN": {
+          "cells": [
+            {
+              "cell": 48,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 49,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 50,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 48,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 49,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 50,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "WALKING_LEFT": {
+          "cells": [
+            {
+              "cell": 64,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 65,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 66,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 67,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 68,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 69,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "WALKING_RIGHT": {
+          "cells": [
+            {
+              "cell": 64,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 65,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 66,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 67,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 68,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 69,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "PICKUP_UP": {
+          "frameDuration": 0.4,
+          "cells": [
+            {
+              "cell": 146,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 19,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "NORMAL"
+        },
+        "PICKUP_DOWN": {
+          "frameDuration": 0.4,
+          "cells": [
+            {
+              "cell": 130,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 3,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "NORMAL"
+        },
+        "PICKUP_LEFT": {
+          "frameDuration": 0.4,
+          "cells": [
+            {
+              "cell": 162,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 35,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "NORMAL"
+        },
+        "PICKUP_RIGHT": {
+          "frameDuration": 0.4,
+          "cells": [
+            {
+              "cell": 162,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 35,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "NORMAL"
+        },
+        "CARRYING_UP": {
+          "cells": [
+            {
+              "cell": 84,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 85,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 86,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 84,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 85,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 86,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CARRYING_DOWN": {
+          "cells": [
+            {
+              "cell": 80,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 81,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 82,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 80,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 81,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 82,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CARRYING_LEFT": {
+          "cells": [
+            {
+              "cell": 96,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 97,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 98,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 99,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 100,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 101,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CARRYING_RIGHT": {
+          "cells": [
+            {
+              "cell": 96,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 97,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 98,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 99,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 100,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 101,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "HOLDING_UP": {
+          "cells": [
+            {
+              "cell": 19,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "NORMAL"
+        },
+        "HOLDING_DOWN": {
+          "cells": [
+            {
+              "cell": 3,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "NORMAL"
+        },
+        "HOLDING_LEFT": {
+          "cells": [
+            {
+              "cell": 35,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "NORMAL"
+        },
+        "HOLDING_RIGHT": {
+          "cells": [
+            {
+              "cell": 35,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "NORMAL"
+        },
+        "STRIKE_DOWN": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 128,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 129,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 130,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 130,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "STRIKE_UP": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 144,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 145,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 146,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 146,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "STRIKE_RIGHT": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 160,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 161,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 162,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 162,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "STRIKE_LEFT": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 160,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 161,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 162,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 162,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CHOP_DOWN": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 131,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 132,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 133,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 133,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CHOP_UP": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 147,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 148,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 149,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 149,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CHOP_RIGHT": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 163,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 164,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 165,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 165,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CHOP_LEFT": {
+          "frameDuration": 0.2,
+          "cells": [
+            {
+              "cell": 163,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 164,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 165,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 165,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CAST_DOWN": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 128,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 129,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 13,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 13,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CAST_UP": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 144,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 145,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 29,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 29,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CAST_RIGHT": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 160,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 161,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 45,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 45,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CAST_LEFT": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 160,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 161,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 45,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 45,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "BITE_DOWN": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 131,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 129,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "BITE_UP": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 147,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 145,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "BITE_RIGHT": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 163,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 161,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "BITE_LEFT": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 163,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 161,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CATCH_DOWN": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 128,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 14,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CATCH_UP": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 144,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 30,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CATCH_RIGHT": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 160,
+              "flipX": false,
+              "flipY": false
+            },
+            {
+              "cell": 46,
+              "flipX": false,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        },
+        "CATCH_LEFT": {
+          "frameDuration": 0.3,
+          "cells": [
+            {
+              "cell": 160,
+              "flipX": true,
+              "flipY": false
+            },
+            {
+              "cell": 46,
+              "flipX": true,
+              "flipY": false
+            }
+          ],
+          "playMode": "LOOP"
+        }
+      }
+    }
+  }
+}
