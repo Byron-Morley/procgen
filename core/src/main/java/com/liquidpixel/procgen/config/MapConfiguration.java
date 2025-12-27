@@ -11,13 +11,13 @@ public class MapConfiguration implements IMapConfiguration {
     private final int chunkCountX;
     private final int chunkCountY;
 
-    public MapConfiguration(int worldWidth, int worldHeight, int chunkWidth, int chunkHeight, int chunkCountX, int chunkCountY) {
+    public MapConfiguration(int worldWidth, int worldHeight, int chunkWidth, int chunkHeight) {
         this.worldWidth = worldWidth;
         this.worldHeight = worldHeight;
         this.chunkWidth = chunkWidth;
         this.chunkHeight = chunkHeight;
-        this.chunkCountX = chunkCountX;
-        this.chunkCountY = chunkCountY;
+        this.chunkCountX = (int) Math.ceil(worldWidth / chunkWidth);
+        this.chunkCountY = (int) Math.ceil(worldHeight / chunkHeight);
     }
 
     @Override

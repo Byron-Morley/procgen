@@ -1,5 +1,6 @@
 package com.liquidpixel.main.components;
 
+
 import com.liquidpixel.sprite.api.component.IStatusComponent;
 import com.liquidpixel.sprite.model.Action;
 import com.liquidpixel.sprite.model.Direction;
