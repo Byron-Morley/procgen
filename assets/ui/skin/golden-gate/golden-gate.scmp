@@ -1,0 +1,7986 @@
+{
+atlasData: {
+	atlasCurrent: true
+	drawables: [
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/default.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: default
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/font-small.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: font-small
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/panel2.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: panel2
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/progress-bar-horizontal.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: progress-bar-horizontal
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/progress-bar-knob-horizontal.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: progress-bar-knob-horizontal
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/progress-bar-knob-vertical.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: progress-bar-knob-vertical
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/progress-bar-vertical.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: progress-bar-vertical
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/radio.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: radio
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/radio-checked-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: radio-checked-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/radio-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: radio-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/scrollbar-horizontal.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: scrollbar-horizontal
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/scrollbar-vertical.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: scrollbar-vertical
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/select-box.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: select-box
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/selection.9.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: selection
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/slider-knob-horizontal.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: slider-knob-horizontal
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/slider-knob-pressed-horizontal.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: slider-knob-pressed-horizontal
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/slider-knob-pressed-vertical.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: slider-knob-pressed-vertical
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/slider-knob-vertical.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: slider-knob-vertical
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/splitpane-horizontal.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: splitpane-horizontal
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/splitpane-vertical.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: splitpane-vertical
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/tab.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: tab
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/tab-pressed.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: tab-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/textfield.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: textfield
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/textfield-pressed.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: textfield-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/title-bg.9.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: title-bg
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/white.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: white
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/button.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: button
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/button-down.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: button-down
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/button-down-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: button-down-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/button-up.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: button-up
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/button-up-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: button-up-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/checkbox.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: checkbox
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/checkbox-checked.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: checkbox-checked
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/checkbox-checked-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: checkbox-checked-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/checkbox-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: checkbox-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/list.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: list
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/check-radio.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: check-radio
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/check.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: check
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/splitpane-vertical-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: splitpane-vertical-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/splitpane-horizontal-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: splitpane-horizontal-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/white.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: black
+			name: black
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TINTED_FROM_COLOR_DATA
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/tree-plus.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: tree-plus
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/tree-minus.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: tree-minus
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/touchpad-knob.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: touchpad-knob
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/touchpad.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: touchpad
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/spinner-down.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: spinner-down
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/spinner-up.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: spinner-up
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/menu-bar.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: menu-bar
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/menu-button-down.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: menu-button-down
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/menu-button.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: menu-button
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-right.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-right
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-left.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-left
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-close.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-close
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-star.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-star
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-star-outline.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-star-outline
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-folder-star.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-folder-star
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-folder-parent.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-folder-parent
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-folder-new.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-folder-new
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-drive.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-drive
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-trash.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-trash
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-refresh.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-refresh
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-file-text.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-file-text
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-file-pdf.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-file-pdf
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-file-image.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-file-image
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-file-audio.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-file-audio
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-settings.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-settings
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/menu.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: menu
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/expand-drop-down.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: expand-drop-down
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-folder.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-folder
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/bar-selector.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: bar-selector
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/white.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: clear
+			name: clear
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TINTED_FROM_COLOR_DATA
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-rect.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-rect
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-pencil.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-pencil
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-brush.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-brush
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-arrow-2.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-arrow-2
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/icon-arrow-1.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: icon-arrow-1
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/menu-button-over.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: menu-button-over
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/close-pressed.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: close-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/indent-purple.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: indent-purple
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/window-panel.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: window-panel
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/close-idle.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: close-idle
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/close-pressed-light.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: close-pressed-light
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/close-pressed-dark.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: close-pressed-dark
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/panel.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: panel
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/scroll-indent.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: scroll-indent
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/scroll-bar.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: scroll-bar
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/title-bar.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: title-bar
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/window-with-gold-trims.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: window-with-gold-trims
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/window-panel-blue.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: window-panel-blue
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/bar-indent.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: bar-indent
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/blue-bar.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: blue-bar
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/green-bar.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: green-bar
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/text-field.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: text-field
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/select-box-idle.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: select-box-idle
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/select-box-pressed.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: select-box-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/tab-active.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: tab-active
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/tab-inactive.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: tab-inactive
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/scroll-bar-horizontal.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: scroll-bar-horizontal
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/scroll-indent-horizontal.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: scroll-indent-horizontal
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/divider.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: divider
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/knob.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: knob
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/radio-unchecked-tick.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: radio-unchecked-tick
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/radio-checked-tick.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: radio-checked-tick
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/radio-checked.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: radio-checked
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/radio-unchecked.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: radio-unchecked
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/button-idle.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: button-idle
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/button-hover.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: button-hover
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/button-pressed.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: button-pressed
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/arrow-right-sm.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: arrow-right-sm
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/arrow-down-sm.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: arrow-down-sm
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: null
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: blue-main
+			name: window-bg
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: PIXEL
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/indent.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: indent
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: null
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: blue-main
+			name: blue-main
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: PIXEL
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/tab-bg.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: tab-bg
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/window.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: window
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+	]
+	fontDrawables: [
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/font-export.png
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: font-export
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: FONT
+			hidden: false
+		}
+		{
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/font-title-export.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: font-title-export
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: FONT
+			hidden: false
+		}
+	]
+}
+jsonData: {
+	colors: [
+		{
+			class: com.ray3k.skincomposer.data.ColorData
+			color: {
+				r: 0.9019608
+				g: 0.79607844
+				b: 0.5137255
+				a: 1
+			}
+			name: Alpha-font-color
+		}
+		{
+			class: com.ray3k.skincomposer.data.ColorData
+			color: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			name: black
+		}
+		{
+			class: com.ray3k.skincomposer.data.ColorData
+			color: {
+				r: 0.078431375
+				g: 0.10980392
+				b: 0.18039216
+				a: 1
+			}
+			name: Blue-dark
+		}
+		{
+			class: com.ray3k.skincomposer.data.ColorData
+			color: {
+				r: 0.38431373
+				g: 0.4627451
+				b: 0.5372549
+				a: 1
+			}
+			name: blue-light
+		}
+		{
+			class: com.ray3k.skincomposer.data.ColorData
+			color: {
+				r: 0.1254902
+				g: 0.16862746
+				b: 0.24313726
+				a: 1
+			}
+			name: blue-main
+		}
+		{
+			class: com.ray3k.skincomposer.data.ColorData
+			color: {
+				r: 1
+				g: 1
+				b: 1
+				a: 0
+			}
+			name: clear
+		}
+		{
+			class: com.ray3k.skincomposer.data.ColorData
+			color: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			name: white
+		}
+	]
+	fonts: [
+		{
+			class: com.ray3k.skincomposer.data.FontData
+			name: font
+			flip: false
+			markupEnabled: false
+			scaling: -1
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/font-export.fnt
+		}
+		{
+			class: com.ray3k.skincomposer.data.FontData
+			name: title
+			flip: false
+			markupEnabled: false
+			scaling: -1
+			file: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate_data/font-title-export.fnt
+		}
+	]
+	freeTypeFonts: []
+	classStyleMap: {
+		com.badlogic.gdx.scenes.scene2d.ui.SplitPane: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default-horizontal
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.SplitPane
+				properties: {
+					handle: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: handle
+						optional: false
+						value: splitpane-horizontal
+					}
+				}
+				deletable: false
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default-vertical
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.SplitPane
+				properties: {
+					handle: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: handle
+						optional: false
+						value: splitpane-vertical
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.ScrollPane: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane
+				properties: {
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+					corner: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: corner
+						optional: true
+						value: null
+					}
+					hScroll: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: hScroll
+						optional: true
+						value: scroll-indent-horizontal
+					}
+					hScrollKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: hScrollKnob
+						optional: true
+						value: scroll-bar-horizontal
+					}
+					vScroll: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: vScroll
+						optional: true
+						value: scroll-indent
+					}
+					vScrollKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: vScrollKnob
+						optional: true
+						value: scroll-bar
+					}
+				}
+				deletable: false
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: list
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane
+				properties: {
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+					corner: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: corner
+						optional: true
+						value: null
+					}
+					hScroll: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: hScroll
+						optional: true
+						value: scroll-indent-horizontal
+					}
+					hScrollKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: hScrollKnob
+						optional: true
+						value: scroll-bar-horizontal
+					}
+					vScroll: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: vScroll
+						optional: true
+						value: scroll-indent
+					}
+					vScrollKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: vScrollKnob
+						optional: true
+						value: scroll-bar
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: select-box
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane
+				properties: {
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+					corner: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: corner
+						optional: true
+						value: null
+					}
+					hScroll: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: hScroll
+						optional: true
+						value: scroll-indent-horizontal
+					}
+					hScrollKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: hScrollKnob
+						optional: true
+						value: scroll-bar-horizontal
+					}
+					vScroll: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: vScroll
+						optional: true
+						value: scroll-indent
+					}
+					vScrollKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: vScrollKnob
+						optional: true
+						value: scroll-bar
+					}
+				}
+				deletable: true
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.TextField: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.TextField
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: false
+						value: blue-main
+					}
+					focusedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: focusedFontColor
+						optional: true
+						value: blue-light
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: text-field
+					}
+					focusedBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: focusedBackground
+						optional: true
+						value: text-field
+					}
+					disabledBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledBackground
+						optional: true
+						value: null
+					}
+					cursor: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: cursor
+						optional: true
+						value: black
+					}
+					selection: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: selection
+						optional: true
+						value: white
+					}
+					messageFont: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: messageFont
+						optional: true
+						value: null
+					}
+					messageFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: messageFontColor
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.Touchpad: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Touchpad
+				properties: {
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: touchpad
+					}
+					knob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knob
+						optional: true
+						value: touchpad-knob
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.Button: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Button
+				properties: {
+					up: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: button-idle
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: button-pressed
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: button-hover
+					}
+					checked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					disabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: false
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: tree
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Button
+				properties: {
+					up: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: null
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: null
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: null
+					}
+					focused: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: focused
+						optional: true
+						value: null
+					}
+					disabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					checked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					checkedDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedDown
+						optional: true
+						value: null
+					}
+					checkedFocused: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedFocused
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: true
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.List: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.List
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColorSelected: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColorSelected
+						optional: false
+						value: Blue-dark
+					}
+					fontColorUnselected: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColorUnselected
+						optional: false
+						value: Alpha-font-color
+					}
+					selection: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: selection
+						optional: false
+						value: button-idle
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: indent
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.CheckBox: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.CheckBox
+				properties: {
+					checkboxOn: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOn
+						optional: false
+						value: radio-checked-tick
+					}
+					checkboxOff: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOff
+						optional: false
+						value: radio-unchecked-tick
+					}
+					checkboxOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOver
+						optional: true
+						value: null
+					}
+					checkboxOnDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOnDisabled
+						optional: true
+						value: null
+					}
+					checkboxOffDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOffDisabled
+						optional: true
+						value: null
+					}
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					downFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: downFontColor
+						optional: true
+						value: null
+					}
+					overFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: overFontColor
+						optional: true
+						value: null
+					}
+					checkedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedFontColor
+						optional: true
+						value: null
+					}
+					checkedOverFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedOverFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: null
+					}
+					up: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: null
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: null
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: null
+					}
+					checked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					disabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: false
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: radio
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.CheckBox
+				properties: {
+					checkboxOn: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOn
+						optional: false
+						value: radio-checked
+					}
+					checkboxOff: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOff
+						optional: false
+						value: radio-unchecked
+					}
+					checkboxOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOver
+						optional: true
+						value: null
+					}
+					checkboxOnDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOnDisabled
+						optional: true
+						value: null
+					}
+					checkboxOffDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOffDisabled
+						optional: true
+						value: null
+					}
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					downFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: downFontColor
+						optional: true
+						value: null
+					}
+					overFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: overFontColor
+						optional: true
+						value: null
+					}
+					checkedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedFontColor
+						optional: true
+						value: null
+					}
+					checkedOverFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedOverFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: null
+					}
+					up: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: null
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: null
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: null
+					}
+					checked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					disabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: true
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.Tree: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Tree
+				properties: {
+					plus: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: plus
+						optional: false
+						value: arrow-right-sm
+					}
+					minus: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: minus
+						optional: false
+						value: arrow-down-sm
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: null
+					}
+					selection: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: selection
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: indent
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.TextTooltip: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.TextTooltip
+				properties: {
+					label: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle
+						name: label
+						optional: false
+						value: default
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: window
+					}
+					wrapWidth: {
+						type: float
+						name: wrapWidth
+						optional: true
+						value: 0
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.Window: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Window
+				properties: {
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: window-panel-blue
+					}
+					titleFont: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: titleFont
+						optional: false
+						value: font
+					}
+					titleFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: titleFontColor
+						optional: true
+						value: null
+					}
+					stageBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: stageBackground
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.Slider: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default-horizontal
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Slider
+				properties: {
+					knobOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobOver
+						optional: true
+						value: null
+					}
+					knobDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobDown
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: false
+						value: scroll-indent-horizontal
+					}
+					disabledBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledBackground
+						optional: true
+						value: null
+					}
+					knob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knob
+						optional: true
+						value: knob
+					}
+					disabledKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnob
+						optional: true
+						value: null
+					}
+					knobBefore: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobBefore
+						optional: true
+						value: blue-bar
+					}
+					knobAfter: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobAfter
+						optional: true
+						value: null
+					}
+					disabledKnobBefore: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnobBefore
+						optional: true
+						value: null
+					}
+					disabledKnobAfter: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnobAfter
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default-vertical
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Slider
+				properties: {
+					knobOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobOver
+						optional: true
+						value: null
+					}
+					knobDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobDown
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: false
+						value: scroll-indent-horizontal
+					}
+					disabledBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledBackground
+						optional: true
+						value: null
+					}
+					knob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knob
+						optional: true
+						value: knob
+					}
+					disabledKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnob
+						optional: true
+						value: null
+					}
+					knobBefore: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobBefore
+						optional: true
+						value: blue-bar
+					}
+					knobAfter: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobAfter
+						optional: true
+						value: null
+					}
+					disabledKnobBefore: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnobBefore
+						optional: true
+						value: null
+					}
+					disabledKnobAfter: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnobAfter
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.SelectBox: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.SelectBox
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: false
+						value: Blue-dark
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: select-box-idle
+					}
+					scrollStyle: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle
+						name: scrollStyle
+						optional: false
+						value: select-box
+					}
+					listStyle: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle
+						name: listStyle
+						optional: false
+						value: default
+					}
+					backgroundOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundOver
+						optional: true
+						value: null
+					}
+					backgroundOpen: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundOpen
+						optional: true
+						value: select-box-pressed
+					}
+					backgroundDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundDisabled
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.TextButton: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.TextButton
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: Blue-dark
+					}
+					downFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: downFontColor
+						optional: true
+						value: null
+					}
+					overFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: overFontColor
+						optional: true
+						value: null
+					}
+					checkedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedFontColor
+						optional: true
+						value: null
+					}
+					checkedOverFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedOverFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: null
+					}
+					up: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: button-idle
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: button-pressed
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: button-hover
+					}
+					checked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					disabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton
+				properties: {
+					imageUp: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageUp
+						optional: true
+						value: null
+					}
+					imageDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDown
+						optional: true
+						value: null
+					}
+					imageOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageOver
+						optional: true
+						value: null
+					}
+					imageChecked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageChecked
+						optional: true
+						value: null
+					}
+					imageCheckedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageCheckedOver
+						optional: true
+						value: null
+					}
+					imageDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDisabled
+						optional: true
+						value: null
+					}
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: Blue-dark
+					}
+					downFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: downFontColor
+						optional: true
+						value: null
+					}
+					overFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: overFontColor
+						optional: true
+						value: null
+					}
+					checkedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedFontColor
+						optional: true
+						value: null
+					}
+					checkedOverFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedOverFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: null
+					}
+					up: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: button-idle
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: button-pressed
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: button-hover
+					}
+					checked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					disabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.Label: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: white
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: menuitem-shortcut
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: small
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: title
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: Blue-dark
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: title-bar
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: window
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: font
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: blue-light
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: window-panel-blue
+					}
+				}
+				deletable: true
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.ProgressBar: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default-horizontal
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ProgressBar
+				properties: {
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: false
+						value: bar-indent
+					}
+					disabledBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledBackground
+						optional: true
+						value: null
+					}
+					knob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knob
+						optional: true
+						value: knob
+					}
+					disabledKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnob
+						optional: true
+						value: null
+					}
+					knobBefore: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobBefore
+						optional: true
+						value: blue-bar
+					}
+					knobAfter: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobAfter
+						optional: true
+						value: null
+					}
+					disabledKnobBefore: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnobBefore
+						optional: true
+						value: null
+					}
+					disabledKnobAfter: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnobAfter
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default-vertical
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ProgressBar
+				properties: {
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: false
+						value: bar-indent
+					}
+					disabledBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledBackground
+						optional: true
+						value: null
+					}
+					knob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knob
+						optional: true
+						value: knob
+					}
+					disabledKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnob
+						optional: true
+						value: null
+					}
+					knobBefore: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobBefore
+						optional: true
+						value: blue-bar
+					}
+					knobAfter: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobAfter
+						optional: true
+						value: null
+					}
+					disabledKnobBefore: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnobBefore
+						optional: true
+						value: null
+					}
+					disabledKnobAfter: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnobAfter
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.ImageButton: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ImageButton
+				properties: {
+					imageUp: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageUp
+						optional: true
+						value: null
+					}
+					imageDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDown
+						optional: true
+						value: null
+					}
+					imageOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageOver
+						optional: true
+						value: null
+					}
+					imageChecked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageChecked
+						optional: true
+						value: null
+					}
+					imageCheckedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageCheckedOver
+						optional: true
+						value: null
+					}
+					imageDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDisabled
+						optional: true
+						value: null
+					}
+					up: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: button-idle
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: button-pressed
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: button-hover
+					}
+					checked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					disabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+	}
+	customClasses: [
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.Sizes
+			displayName: Sizes
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: scaleFactor
+							type: NUMBER
+							value: 1
+						}
+						{
+							name: spacingBottom
+							type: NUMBER
+							value: 8
+						}
+						{
+							name: spacingRight
+							type: NUMBER
+							value: 6
+						}
+						{
+							name: buttonBarSpacing
+							type: NUMBER
+							value: 10
+						}
+						{
+							name: menuItemIconSize
+							type: NUMBER
+							value: 22
+						}
+						{
+							name: borderSize
+							type: NUMBER
+							value: 1
+						}
+						{
+							name: spinnerButtonHeight
+							type: NUMBER
+							value: 12
+						}
+						{
+							name: spinnerFieldSize
+							type: NUMBER
+							value: 50
+						}
+						{
+							name: fileChooserViewModeBigIconsSize
+							type: NUMBER
+							value: 200
+						}
+						{
+							name: fileChooserViewModeMediumIconsSize
+							type: NUMBER
+							value: 128
+						}
+						{
+							name: fileChooserViewModeSmallIconsSize
+							type: NUMBER
+							value: 64
+						}
+						{
+							name: fileChooserViewModeListWidthSize
+							type: NUMBER
+							value: 150
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: scaleFactor
+						type: NUMBER
+						value: null
+					}
+					{
+						name: spacingBottom
+						type: NUMBER
+						value: null
+					}
+					{
+						name: spacingRight
+						type: NUMBER
+						value: null
+					}
+					{
+						name: buttonBarSpacing
+						type: NUMBER
+						value: null
+					}
+					{
+						name: menuItemIconSize
+						type: NUMBER
+						value: null
+					}
+					{
+						name: borderSize
+						type: NUMBER
+						value: null
+					}
+					{
+						name: spinnerButtonHeight
+						type: NUMBER
+						value: null
+					}
+					{
+						name: spinnerFieldSize
+						type: NUMBER
+						value: null
+					}
+					{
+						name: fileChooserViewModeBigIconsSize
+						type: NUMBER
+						value: null
+					}
+					{
+						name: fileChooserViewModeMediumIconsSize
+						type: NUMBER
+						value: null
+					}
+					{
+						name: fileChooserViewModeSmallIconsSize
+						type: NUMBER
+						value: null
+					}
+					{
+						name: fileChooserViewModeListWidthSize
+						type: NUMBER
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.VisTextField$VisTextFieldStyle
+			displayName: VisTextField
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: errorBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: font
+						}
+						{
+							name: fontColor
+							type: COLOR
+							value: blue-main
+						}
+						{
+							name: disabledFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: selection
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: background
+							type: DRAWABLE
+							value: text-field
+						}
+						{
+							name: backgroundOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: cursor
+							type: DRAWABLE
+							value: black
+						}
+						{
+							name: focusedFontColor
+							type: COLOR
+							value: blue-light
+						}
+						{
+							name: focusedBackground
+							type: DRAWABLE
+							value: text-field
+						}
+						{
+							name: disabledBackground
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: messageFont
+							type: FONT
+							value: null
+						}
+						{
+							name: messageFontColor
+							type: COLOR
+							value: null
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: focusBorder
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: errorBorder
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: font
+						type: FONT
+						value: null
+					}
+					{
+						name: fontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: disabledFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: selection
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: background
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: backgroundOver
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: cursor
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: focusedFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: focusedBackground
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: disabledBackground
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: messageFont
+						type: FONT
+						value: null
+					}
+					{
+						name: messageFontColor
+						type: COLOR
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.VisTextButton$VisTextButtonStyle
+			displayName: VisTextButton
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: down
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: button-idle
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: button-hover
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: font
+						}
+						{
+							name: fontColor
+							type: COLOR
+							value: Blue-dark
+						}
+						{
+							name: disabledFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: downFontColor
+							type: COLOR
+							value: black
+						}
+						{
+							name: overFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedOverFontColor
+							type: FONT
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: false
+				}
+				{
+					name: menu
+					properties: [
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: down
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: font
+						}
+						{
+							name: fontColor
+							type: COLOR
+							value: white
+						}
+						{
+							name: disabledFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: downFontColor
+							type: COLOR
+							value: blue-light
+						}
+						{
+							name: overFontColor
+							type: COLOR
+							value: blue-light
+						}
+						{
+							name: checkedFontColor
+							type: COLOR
+							value: blue-light
+						}
+						{
+							name: checkedOverFontColor
+							type: FONT
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: true
+				}
+				{
+					name: toggle
+					properties: [
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: down
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: button
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: font
+						}
+						{
+							name: fontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: disabledFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: downFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: overFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedOverFontColor
+							type: FONT
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: true
+				}
+				{
+					name: tab
+					properties: [
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: down
+							type: DRAWABLE
+							value: tab-active
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: tab-inactive
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: font
+						}
+						{
+							name: fontColor
+							type: COLOR
+							value: white
+						}
+						{
+							name: disabledFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: tab-active
+						}
+						{
+							name: downFontColor
+							type: COLOR
+							value: Blue-dark
+						}
+						{
+							name: overFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedFontColor
+							type: COLOR
+							value: Blue-dark
+						}
+						{
+							name: checkedOverFontColor
+							type: FONT
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: true
+				}
+				{
+					name: tree-text
+					properties: [
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: down
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: null
+						}
+						{
+							name: fontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: disabledFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: downFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: overFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedOverFontColor
+							type: FONT
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: true
+				}
+				{
+					name: slot
+					properties: [
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: down
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: indent
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: font
+						}
+						{
+							name: fontColor
+							type: COLOR
+							value: blue-light
+						}
+						{
+							name: disabledFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: downFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: overFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedOverFontColor
+							type: FONT
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: true
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: focusBorder
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: down
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: up
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: over
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: disabled
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: font
+						type: FONT
+						value: null
+					}
+					{
+						name: fontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: disabledFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checked
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: downFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: overFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checkedFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checkedOverFontColor
+						type: FONT
+						value: null
+					}
+					{
+						name: checkedOver
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.VisImageButton$VisImageButtonStyle
+			displayName: VisImageButton
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: down
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: button-idle
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: button-hover
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageUp
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDown
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageChecked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageCheckedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDisabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: pressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: pressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetY
+							type: NUMBER
+							value: null
+						}
+					]
+					deletable: false
+				}
+				{
+					name: close-window
+					properties: [
+						{
+							name: down
+							type: DRAWABLE
+							value: close-pressed-light
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: close-idle
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: close-pressed-dark
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageUp
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDown
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageChecked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageCheckedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDisabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: pressedOffsetX
+							type: NUMBER
+							value: 0
+						}
+						{
+							name: pressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetY
+							type: NUMBER
+							value: null
+						}
+					]
+					deletable: true
+				}
+				{
+					name: arrow-1
+					properties: [
+						{
+							name: down
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: button
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: imageUp
+							type: DRAWABLE
+							value: icon-arrow-1
+						}
+						{
+							name: imageDown
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageChecked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageCheckedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDisabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: pressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: pressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetY
+							type: NUMBER
+							value: null
+						}
+					]
+					deletable: true
+				}
+				{
+					name: arrow-2
+					properties: [
+						{
+							name: down
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: button
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: imageUp
+							type: DRAWABLE
+							value: icon-arrow-2
+						}
+						{
+							name: imageDown
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageChecked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageCheckedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDisabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: pressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: pressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetY
+							type: NUMBER
+							value: null
+						}
+					]
+					deletable: true
+				}
+				{
+					name: rect
+					properties: [
+						{
+							name: down
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: button
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: imageUp
+							type: DRAWABLE
+							value: icon-rect
+						}
+						{
+							name: imageDown
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageChecked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageCheckedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDisabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: pressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: pressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetY
+							type: NUMBER
+							value: null
+						}
+					]
+					deletable: true
+				}
+				{
+					name: pencil
+					properties: [
+						{
+							name: down
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: button
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: imageUp
+							type: DRAWABLE
+							value: icon-pencil
+						}
+						{
+							name: imageDown
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageChecked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageCheckedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDisabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: pressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: pressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetY
+							type: NUMBER
+							value: null
+						}
+					]
+					deletable: true
+				}
+				{
+					name: brush
+					properties: [
+						{
+							name: down
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: button
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: imageUp
+							type: DRAWABLE
+							value: icon-brush
+						}
+						{
+							name: imageDown
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageChecked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageCheckedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDisabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: pressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: pressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetY
+							type: NUMBER
+							value: null
+						}
+					]
+					deletable: true
+				}
+				{
+					name: close-active-tab
+					properties: [
+						{
+							name: down
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: button
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageUp
+							type: DRAWABLE
+							value: icon-close
+						}
+						{
+							name: imageDown
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageChecked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageCheckedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDisabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: pressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: pressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetY
+							type: NUMBER
+							value: null
+						}
+					]
+					deletable: true
+				}
+				{
+					name: close
+					properties: [
+						{
+							name: down
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: button
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageUp
+							type: DRAWABLE
+							value: icon-close
+						}
+						{
+							name: imageDown
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageChecked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageCheckedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDisabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: pressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: pressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetY
+							type: NUMBER
+							value: null
+						}
+					]
+					deletable: true
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: down
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: up
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: over
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: disabled
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: focusBorder
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: checked
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: imageUp
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: imageDown
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: imageOver
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: imageChecked
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: imageCheckedOver
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: imageDisabled
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: checkedOver
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: pressedOffsetX
+						type: NUMBER
+						value: null
+					}
+					{
+						name: pressedOffsetY
+						type: NUMBER
+						value: null
+					}
+					{
+						name: unpressedOffsetX
+						type: NUMBER
+						value: null
+					}
+					{
+						name: unpressedOffsetY
+						type: NUMBER
+						value: null
+					}
+					{
+						name: checkedOffsetX
+						type: NUMBER
+						value: null
+					}
+					{
+						name: checkedOffsetY
+						type: NUMBER
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.VisImageTextButton$VisImageTextButtonStyle
+			displayName: VisImageTextButton
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: down
+							type: DRAWABLE
+							value: button-pressed
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: button
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: font
+						}
+						{
+							name: fontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: disabledFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageUp
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDown
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageChecked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageCheckedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: imageDisabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: downFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: overFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedOverFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: down
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: up
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: over
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: disabled
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: font
+						type: FONT
+						value: null
+					}
+					{
+						name: fontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: disabledFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: focusBorder
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: checked
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: imageUp
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: imageDown
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: imageOver
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: imageChecked
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: imageCheckedOver
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: imageDisabled
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: downFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: overFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checkedFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checkedOverFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checkedOver
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.VisCheckBox$VisCheckBoxStyle
+			displayName: VisCheckBox
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: checkBackground
+							type: DRAWABLE
+							value: radio-unchecked-tick
+						}
+						{
+							name: checkBackgroundOver
+							type: DRAWABLE
+							value: radio-unchecked-tick
+						}
+						{
+							name: checkBackgroundDown
+							type: DRAWABLE
+							value: radio-checked-tick
+						}
+						{
+							name: tick
+							type: DRAWABLE
+							value: radio-checked-tick
+						}
+						{
+							name: tickDisabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: errorBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: font
+						}
+						{
+							name: fontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: disabledFontColor
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: downFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: overFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedOverFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: down
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: pressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: pressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetY
+							type: NUMBER
+							value: null
+						}
+					]
+					deletable: false
+				}
+				{
+					name: radio
+					properties: [
+						{
+							name: checkBackground
+							type: DRAWABLE
+							value: radio
+						}
+						{
+							name: checkBackgroundOver
+							type: DRAWABLE
+							value: radio
+						}
+						{
+							name: checkBackgroundDown
+							type: DRAWABLE
+							value: radio-pressed
+						}
+						{
+							name: tick
+							type: DRAWABLE
+							value: check-radio
+						}
+						{
+							name: tickDisabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: focusBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: errorBorder
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: font
+						}
+						{
+							name: fontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: disabledFontColor
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: downFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: overFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedOverFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: down
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: pressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: pressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: unpressedOffsetY
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetX
+							type: NUMBER
+							value: null
+						}
+						{
+							name: checkedOffsetY
+							type: NUMBER
+							value: null
+						}
+					]
+					deletable: true
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: checkBackground
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: checkBackgroundOver
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: checkBackgroundDown
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: tick
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: tickDisabled
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: focusBorder
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: errorBorder
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: font
+						type: FONT
+						value: null
+					}
+					{
+						name: fontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: disabledFontColor
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: downFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: overFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checkedFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checkedOverFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: up
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: down
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: over
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: checked
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: checkedOver
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: disabled
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: pressedOffsetX
+						type: NUMBER
+						value: null
+					}
+					{
+						name: pressedOffsetY
+						type: NUMBER
+						value: null
+					}
+					{
+						name: unpressedOffsetX
+						type: NUMBER
+						value: null
+					}
+					{
+						name: unpressedOffsetY
+						type: NUMBER
+						value: null
+					}
+					{
+						name: checkedOffsetX
+						type: NUMBER
+						value: null
+					}
+					{
+						name: checkedOffsetY
+						type: NUMBER
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.PopupMenu$PopupMenuStyle
+			displayName: PopupMenu
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: background
+							type: DRAWABLE
+							value: button
+						}
+						{
+							name: border
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: background
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: border
+						type: TEXT
+						value: null
+					}
+					{
+						name: border
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: border
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.Menu$MenuStyle
+			displayName: Menu
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: background
+							type: DRAWABLE
+							value: panel
+						}
+						{
+							name: openButtonStyle
+							type: TEXT
+							value: menu
+						}
+						{
+							name: border
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: background
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: border
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: openButtonStyle
+						type: TEXT
+						value: null
+					}
+					{
+						name: border
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.MenuBar$MenuBarStyle
+			displayName: MenuBar
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: background
+							type: DRAWABLE
+							value: menu-bar
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: background
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.Separator$SeparatorStyle
+			displayName: Separator
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: background
+							type: DRAWABLE
+							value: splitpane-vertical-pressed
+						}
+						{
+							name: thickness
+							type: NUMBER
+							value: 4
+						}
+					]
+					deletable: false
+				}
+				{
+					name: menu
+					properties: [
+						{
+							name: background
+							type: DRAWABLE
+							value: black
+						}
+						{
+							name: thickness
+							type: NUMBER
+							value: 1
+						}
+					]
+					deletable: true
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: background
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: thickness
+						type: NUMBER
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.VisSplitPane$VisSplitPaneStyle
+			displayName: VisSplitPane
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: handle
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: handleOver
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: false
+				}
+				{
+					name: default-vertical
+					properties: [
+						{
+							name: handle
+							type: DRAWABLE
+							value: splitpane-vertical
+						}
+						{
+							name: handleOver
+							type: DRAWABLE
+							value: splitpane-vertical-pressed
+						}
+					]
+					deletable: true
+				}
+				{
+					name: default-horizontal
+					properties: [
+						{
+							name: handle
+							type: DRAWABLE
+							value: splitpane-horizontal
+						}
+						{
+							name: handleOver
+							type: DRAWABLE
+							value: splitpane-horizontal-pressed
+						}
+					]
+					deletable: true
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: handle
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: handleOver
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.MultiSplitPane$MultiSplitPaneStyle
+			displayName: MultiSplitPane
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: handle
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: handleOver
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: false
+				}
+				{
+					name: default-horizontal
+					properties: [
+						{
+							name: handle
+							type: DRAWABLE
+							value: splitpane-horizontal
+						}
+						{
+							name: handleOver
+							type: DRAWABLE
+							value: splitpane-horizontal-pressed
+						}
+					]
+					deletable: true
+				}
+				{
+					name: default-vertical
+					properties: [
+						{
+							name: handle
+							type: DRAWABLE
+							value: splitpane-vertical
+						}
+						{
+							name: handleOver
+							type: DRAWABLE
+							value: splitpane-vertical-pressed
+						}
+					]
+					deletable: true
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: handle
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: handleOver
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.MenuItem$MenuItemStyle
+			displayName: MenuItem
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: subMenu
+							type: DRAWABLE
+							value: icon-right
+						}
+						{
+							name: down
+							type: DRAWABLE
+							value: menu-button-down
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: menu-button
+						}
+						{
+							name: over
+							type: DRAWABLE
+							value: menu-button-over
+						}
+						{
+							name: disabled
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: font
+						}
+						{
+							name: fontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: disabledFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checked
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: downFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: overFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedOverFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: checkedOver
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: subMenu
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: down
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: up
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: over
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: disabled
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: font
+						type: FONT
+						value: null
+					}
+					{
+						name: fontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: disabledFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checked
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: downFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: overFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checkedFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checkedOverFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: checkedOver
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.Tooltip$TooltipStyle
+			displayName: Tooltip
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: background
+							type: DRAWABLE
+							value: window-panel-blue
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: background
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.LinkLabel$LinkLabelStyle
+			displayName: LinkLabel
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: fontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: underline
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: font
+							type: FONT
+							value: font
+						}
+						{
+							name: background
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: fontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: underline
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: font
+						type: FONT
+						value: null
+					}
+					{
+						name: background
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.tabbedpane.TabbedPane$TabbedPaneStyle
+			displayName: TabbedPane
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: background
+							type: DRAWABLE
+							value: tab-bg
+						}
+						{
+							name: separatorBar
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: buttonStyle
+							type: TEXT
+							value: tab
+						}
+						{
+							name: vertical
+							type: BOOL
+							value: true
+						}
+						{
+							name: draggable
+							type: BOOL
+							value: false
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: background
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: separatorBar
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: buttonStyle
+						type: TEXT
+						value: ""
+					}
+					{
+						name: vertical
+						type: BOOL
+						value: false
+					}
+					{
+						name: draggable
+						type: BOOL
+						value: false
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.spinner.Spinner$SpinnerStyle
+			displayName: Spinner
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: down
+							type: DRAWABLE
+							value: spinner-down
+						}
+						{
+							name: up
+							type: DRAWABLE
+							value: spinner-up
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: down
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: up
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.file.FileChooserStyle
+			displayName: FileChooser
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: highlight
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: popupMenuStyle
+							type: TEXT
+							value: default
+						}
+						{
+							name: iconArrowLeft
+							type: DRAWABLE
+							value: icon-left
+						}
+						{
+							name: iconArrowRight
+							type: DRAWABLE
+							value: icon-right
+						}
+						{
+							name: iconFolder
+							type: DRAWABLE
+							value: icon-folder
+						}
+						{
+							name: iconFolderParent
+							type: DRAWABLE
+							value: icon-folder-parent
+						}
+						{
+							name: iconFolderNew
+							type: DRAWABLE
+							value: icon-folder-new
+						}
+						{
+							name: iconDrive
+							type: DRAWABLE
+							value: icon-drive
+						}
+						{
+							name: iconFolderStar
+							type: DRAWABLE
+							value: icon-folder-star
+						}
+						{
+							name: iconTrash
+							type: DRAWABLE
+							value: icon-trash
+						}
+						{
+							name: iconStar
+							type: DRAWABLE
+							value: icon-star
+						}
+						{
+							name: iconStarOutline
+							type: DRAWABLE
+							value: icon-star-outline
+						}
+						{
+							name: iconRefresh
+							type: DRAWABLE
+							value: icon-refresh
+						}
+						{
+							name: iconFileText
+							type: DRAWABLE
+							value: icon-file-text
+						}
+						{
+							name: iconFileImage
+							type: DRAWABLE
+							value: icon-file-image
+						}
+						{
+							name: iconFilePdf
+							type: DRAWABLE
+							value: icon-file-pdf
+						}
+						{
+							name: iconFileAudio
+							type: DRAWABLE
+							value: icon-file-audio
+						}
+						{
+							name: iconListSettings
+							type: DRAWABLE
+							value: icon-settings
+						}
+						{
+							name: contextMenuSelectedItem
+							type: DRAWABLE
+							value: check-radio
+						}
+						{
+							name: expandDropdown
+							type: DRAWABLE
+							value: expand-drop-down
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: highlight
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: popupMenuStyle
+						type: TEXT
+						value: null
+					}
+					{
+						name: iconArrowLeft
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconArrowRight
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconFolder
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconFolderParent
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconFolderNew
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconDrive
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconFolderStar
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconTrash
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconStar
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconStarOutline
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconRefresh
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconFileText
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconFileImage
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconFilePdf
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconFileAudio
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconListSettings
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: contextMenuSelectedItem
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: expandDropdown
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.color.ColorPickerWidgetStyle
+			displayName: ColorPickerWidget
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: barSelector
+							type: DRAWABLE
+							value: bar-selector
+						}
+						{
+							name: cross
+							type: DRAWABLE
+							value: bar-selector
+						}
+						{
+							name: iconArrowRight
+							type: DRAWABLE
+							value: icon-right
+						}
+						{
+							name: verticalSelector
+							type: DRAWABLE
+							value: clear
+						}
+						{
+							name: horizontalSelector
+							type: DRAWABLE
+							value: clear
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: barSelector
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: cross
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: iconArrowRight
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: verticalSelector
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: horizontalSelector
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.color.ColorPickerStyle
+			displayName: ColorPicker
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: titleFont
+							type: FONT
+							value: font
+						}
+						{
+							name: background
+							type: DRAWABLE
+							value: window
+						}
+						{
+							name: titleFontColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: pickerStyle
+							type: TEXT
+							value: default
+						}
+						{
+							name: stageBackground
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: titleFont
+						type: FONT
+						value: null
+					}
+					{
+						name: background
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: titleFontColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: pickerStyle
+						type: TEXT
+						value: ""
+					}
+					{
+						name: stageBackground
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.toast.Toast$ToastStyle
+			displayName: Toast
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: background
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: closeButtonStyle
+							type: TEXT
+							value: ""
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: background
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: closeButtonStyle
+						type: TEXT
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.BusyBar$BusyBarStyle
+			displayName: BusyBar
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: height
+							type: NUMBER
+							value: 5
+						}
+						{
+							name: segment
+							type: DRAWABLE
+							value: splitpane-vertical
+						}
+						{
+							name: segmentWidth
+							type: NUMBER
+							value: 150
+						}
+						{
+							name: segmentOverflow
+							type: NUMBER
+							value: 10
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: height
+						type: NUMBER
+						value: null
+					}
+					{
+						name: segment
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: segmentWidth
+						type: NUMBER
+						value: null
+					}
+					{
+						name: segmentOverflow
+						type: NUMBER
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.widget.ListViewStyle
+			displayName: ListView
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: scrollPaneStyle
+							type: TEXT
+							value: default
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: scrollPaneStyle
+						type: TEXT
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: true
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.util.form.SimpleFormValidator$FormValidatorStyle
+			displayName: FormValidator
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: errorLabelColor
+							type: COLOR
+							value: null
+						}
+						{
+							name: validLabelColor
+							type: COLOR
+							value: black
+						}
+						{
+							name: colorTransitionDuration
+							type: NUMBER
+							value: null
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: errorLabelColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: validLabelColor
+						type: COLOR
+						value: null
+					}
+					{
+						name: colorTransitionDuration
+						type: NUMBER
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+		{
+			fullyQualifiedName: com.kotcrab.vis.ui.util.adapter.SimpleListAdapter$SimpleListAdapterStyle
+			displayName: SimpleListAdapter
+			styles: [
+				{
+					name: default
+					properties: [
+						{
+							name: background
+							type: DRAWABLE
+							value: null
+						}
+						{
+							name: selection
+							type: DRAWABLE
+							value: null
+						}
+					]
+					deletable: false
+				}
+			]
+			templateStyle: {
+				name: template
+				properties: [
+					{
+						name: background
+						type: DRAWABLE
+						value: null
+					}
+					{
+						name: selection
+						type: DRAWABLE
+						value: null
+					}
+				]
+				deletable: true
+			}
+			declareAfterUIclasses: false
+		}
+	]
+}
+preferences: {
+	id: {
+		class: java.lang.Integer
+		value: 534437168
+	}
+	preview-bg-color: {
+		class: com.badlogic.gdx.graphics.Color
+		r: 0.1254902
+		g: 0.16862746
+		b: 0.24313726
+		a: 1
+	}
+	last-import-export-path: {
+		class: java.lang.String
+		value: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/skin.json
+	}
+	resources-relative: {
+		class: java.lang.Boolean
+		value: true
+	}
+	maxUndos: {
+		class: java.lang.Integer
+		value: 30
+	}
+}
+saveFile: C:/Users/byron/Documents/work/games/medinopoly/core/assets/ui/skin/golden-gate/golden-gate.scmp
+version: 56
+sceneComposer: null
+}

@@ -1,0 +1,197 @@
+{
+  "tileWidth": 16,
+  "tileHeight": 16,
+  "terrainDefinitions": [
+    {
+      "id": 1,
+      "typeId": 2,
+      "name": "deep-water",
+      "min": -1.0,
+      "max": 0.14,
+      "baseIndex": 1295,
+      "weights": [5, 30, 180, 1080],
+      "baseTile": "summer-default/terrain",
+      "terrainVariants": [
+        {
+          "index": 1295,
+          "probability": "0.5"
+        },
+        {
+          "index": 1295,
+          "probability": "0.5"
+        }
+      ],
+      "terrainItems": [
+        {
+          "name": "scenery/medium-water-rock",
+          "probability": "0.002"
+        },
+        {
+          "name": "scenery/large-lily",
+          "probability": "0.002"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "typeId": 2,
+      "name": "shallow-water",
+      "min": 0.15,
+      "max": 0.2,
+      "weights": [4, 24, 144, 864],
+      "baseIndex": 1036,
+      "baseTile": "summer-default/terrain",
+      "terrainVariants": [
+        {"index": 1036, "probability": "0.3"},
+        {"index": 1310, "probability": "0.3"},
+        {"index": 1316, "probability": "0.3"},
+        {"index": 1322, "probability": "0.3"},
+        {"index": 1340, "probability": "0.3"},
+        {"index": 1354, "probability": "0.3"},
+        {"index": 1356, "probability": "0.3"},
+        {"index": 1358, "probability": "0.3"},
+        {"index": 1360, "probability": "0.01"},
+        {"index": 1393, "probability": "0.01"},
+        {"index": 1396, "probability": "0.01"},
+        {"index": 1403, "probability": "0.01"},
+        {"index": 1406, "probability": "0.01"},
+        {"index": 1409, "probability": "0.005"},
+        {"index": 1412, "probability": "0.005"},
+        {"index": 1415, "probability": "0.02"},
+        {"index": 1416, "probability": "0.02"}
+      ],
+      "terrainItems": [
+        {"name": "scenery/lily1", "probability": "0.05"},
+        {"name": "scenery/lily2", "probability": "0.05"},
+        {"name": "scenery/lily_pad1", "probability": "0.05"},
+        {"name": "scenery/lily_pad2", "probability": "0.05"},
+        {"name": "scenery/lily_pad3", "probability": "0.05"},
+        {"name": "scenery/lily_pad4", "probability": "0.05"}
+      ]
+    },
+    {
+      "id": 3,
+      "typeId": 1,
+      "name": "light-grass",
+      "min": 0.2,
+      "max": 0.8,
+      "weights": [1, 6, 36, 216],
+      "baseIndex": 259,
+      "baseTile": "summer-default/terrain",
+      "terrainVariants": [
+        {"index": 259, "probability": "0.3"},
+        {"index": 1307, "probability": "0.3"},
+        {"index": 1313, "probability": "0.3"},
+        {"index": 1319, "probability": "0.3"},
+        {"index": 1337, "probability": "0.3"},
+        {"index": 1387, "probability": "0.05"},
+        {"index": 1388, "probability": "0.05"},
+        {"index": 1389, "probability": "0.05"},
+        {"index": 1390, "probability": "0.05"},
+        {"index": 1391, "probability": "0.005"},
+        {"index": 1397, "probability": "0.05"},
+        {"index": 1398, "probability": "0.05"},
+        {"index": 1399, "probability": "0.05"},
+        {"index": 1400, "probability": "0.05"},
+        {"index": 1401, "probability": "0.005"},
+        {"index": 1404, "probability": "0.005"},
+        {"index": 1407, "probability": "0.005"},
+        {"index": 1410, "probability": "0.005"},
+        {"index": 1413, "probability": "0.005"},
+        {"index": 1414, "probability": "0.005"},
+        {"index": 1417, "probability": "0.005"}
+      ],
+      "terrainItems": [
+        {"name": "scenery/small-tree", "probability": "0.01"},
+        {"name": "scenery/medium-tree", "probability": "0.01"},
+        {"name": "scenery/leaves1", "probability": "0.01"},
+        {"name": "scenery/leaves2", "probability": "0.01"},
+        {"name": "scenery/leaves3", "probability": "0.01"},
+        {"name": "scenery/tall-grass", "probability": "0.02"},
+        {"name": "scenery/small-bush-fruit", "probability": "0.01"},
+        {"name": "scenery/felled-broken-tree-trunk", "probability": "0.001"},
+        {"name": "scenery/broken-tree-trunk", "probability": "0.001"},
+        {"name": "scenery/medium-rock", "probability": "0.001"}
+      ]
+    },
+    {
+      "id": 4,
+      "typeId": 1,
+      "name": "dark-grass",
+      "min": 0.8,
+      "max": 0.85,
+      "weights": [2, 12, 72, 432],
+      "baseIndex": 518,
+      "baseTile": "summer-default/terrain",
+      "terrainVariants": [
+        {"index": 518, "probability": "0.9"},
+        {"index": 1304, "probability": "0.9"},
+        {"index": 1308, "probability": "0.9"},
+        {"index": 1314, "probability": "0.9"},
+        {"index": 1320, "probability": "0.9"},
+        {"index": 1338, "probability": "0.9"}
+      ],
+      "terrainItems": [
+        {"name": "scenery/large-tree", "probability": "0.01"},
+        {"name": "scenery/medium-tree", "probability": "0.01"},
+        {"name": "scenery/mushroom1", "probability": "0.05"},
+        {"name": "scenery/mushroom2", "probability": "0.05"},
+        {"name": "scenery/mushroom3", "probability": "0.05"},
+        {"name": "scenery/mushroom4", "probability": "0.05"},
+        {"name": "scenery/mushroom5", "probability": "0.05"},
+        {"name": "scenery/mushroom6", "probability": "0.05"},
+        {"name": "scenery/sticks1", "probability": "0.05"},
+        {"name": "scenery/sticks2", "probability": "0.05"},
+        {"name": "scenery/sticks3", "probability": "0.05"}
+      ]
+    },
+    {
+      "id": 5,
+      "typeId": 1,
+      "name": "dirt",
+      "min": 0.85,
+      "max": 1.1,
+      "weights": [0, 0, 0, 0],
+      "baseIndex": 0,
+      "baseTile": "summer-default/terrain",
+      "terrainVariants": [
+        {"index": 0, "probability": "0.3"},
+        {"index": 1300, "probability": "0.3"},
+        {"index": 1302, "probability": "0.3"},
+        {"index": 1303, "probability": "0.3"},
+        {"index": 1306, "probability": "0.3"},
+        {"index": 1312, "probability": "0.3"},
+        {"index": 1318, "probability": "0.3"},
+        {"index": 1336, "probability": "0.3"},
+        {"index": 1392, "probability": "0.02"},
+        {"index": 1395, "probability": "0.02"},
+        {"index": 1402, "probability": "0.02"},
+        {"index": 1408, "probability": "0.02"},
+        {"index": 1411, "probability": "0.02"}
+      ],
+      "terrainItems": [
+        {"name": "scenery/big_rock", "probability": "0.005"},
+        {"name": "scenery/large_rock", "probability": "0.005"}
+      ]
+    },
+    {
+      "id": 6,
+      "typeId": 1,
+      "name": "cobblestone",
+      "min": 1.0,
+      "max": 1.0,
+      "weights": [3, 18, 108, 648],
+      "baseIndex": 777,
+      "baseTile": "summer-default/terrain",
+      "terrainVariants": [
+        {"index": 777, "probability": "0.9"},
+        {"index": 1301, "probability": "0.3"},
+        {"index": 1305, "probability": "0.3"},
+        {"index": 1309, "probability": "0.3"},
+        {"index": 1315, "probability": "0.3"},
+        {"index": 1321, "probability": "0.3"},
+        {"index": 1339, "probability": "0.1"}
+      ]
+    }
+  ]
+}
