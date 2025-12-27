@@ -98,7 +98,7 @@ public class ProcGenScreen implements Screen {
 
         taskManager = new TaskManager();
 
-        MapConfiguration mapConfiguration = new MapConfiguration(128, 128, 16, 16);
+        MapConfiguration mapConfiguration = new MapConfiguration(128, 128, 32, 32);
 
         mapService = new MapService(
             taskManager,
