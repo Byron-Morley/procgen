@@ -1,3 +1,4 @@
 [
-    "sprites/terrain/16x16_terrain.atlas"
+  "sprites/terrain/16x16_terrain.atlas",
+  "sprites/terrain/1024x1024_terrain.atlas"
 ]

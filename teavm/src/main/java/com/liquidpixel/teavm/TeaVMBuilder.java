@@ -11,10 +11,10 @@ import java.io.File;
 import java.io.IOException;
 import java.util.HashMap;
 
-import com.liquidpixel.main.models.Item;
-import com.liquidpixel.main.models.ItemList;
-import com.liquidpixel.main.models.Slot;
-import com.liquidpixel.main.models.SlotList;
+import com.liquidpixel.example.models.Item;
+import com.liquidpixel.example.models.ItemList;
+import com.liquidpixel.example.models.Slot;
+import com.liquidpixel.example.models.SlotList;
 import org.teavm.tooling.TeaVMSourceFilePolicy;
 import org.teavm.tooling.TeaVMTargetType;
 import org.teavm.tooling.TeaVMTool;

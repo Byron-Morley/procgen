@@ -4,11 +4,8 @@ plugins {
   id 'org.javamodularity.moduleplugin' version '1.8.12'
   id 'org.openjfx.javafxplugin' version '0.0.13'
   id 'org.beryx.jlink' version '2.25.0'
-}
-
-javafx {
-  version = '20.0.1'
-  modules = ['javafx.controls', 'javafx.fxml']
+  id 'java-library'
+  id 'maven-publish'
 }
 
 repositories {
@@ -34,16 +31,48 @@ repositories {
 eclipse.project.name = appName + '-core'
 
 dependencies {
+  implementation "com.badlogicgames.gdx:gdx-backend-headless:$gdxVersion"
+  implementation "com.badlogicgames.gdx:gdx-box2d-platform:$gdxVersion:natives-desktop"
+  implementation "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
   api "com.badlogicgames.ashley:ashley:$ashleyVersion"
   api "com.badlogicgames.gdx:gdx-ai:$aiVersion"
   api "com.badlogicgames.gdx:gdx:$gdxVersion"
   api "com.kotcrab.vis:vis-ui:$visUiVersion"
   api "com.sudoplay.joise:joise:$joiseVersion"
+  testImplementation project(path: ':headless')
   implementation "com.liquidpixel:core:$core"
   implementation "com.liquidpixel:sprite:$sprite"
   implementation 'org.teavm:teavm-jso:0.12.3'
 
+
   if (enableGraalNative == 'true') {
     implementation "io.github.berstanio:gdx-svmhelper-annotations:$graalHelperVersion"
+  }
+}
+
+
+tasks.register('publishJar', Jar) {
+  from sourceSets.main.output
+  exclude '**/example/**'
+}
+
+publishing {
+  repositories {
+    maven {
+      name = "GitHubPackages"
+      url = uri("https://maven.pkg.github.com/Byron-Morley/procgen")
+      credentials {
+        username = project.findProperty("gpr.user") ?: System.getenv("USERNAME")
+        password = project.findProperty("gpr.key") ?: System.getenv("TOKEN")
+      }
+    }
+  }
+  publications {
+    gpr(MavenPublication) {
+      groupId = 'com.liquidpixel'
+      artifactId = 'procgen'
+      version = "$projectVersion"
+      artifact publishJar
+    }
   }
 }

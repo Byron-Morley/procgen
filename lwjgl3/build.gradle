@@ -216,3 +216,24 @@ tasks.register('createBodyTextureAtlas') {
     TexturePacker.process(settings, spritesDir.absolutePath, atlasDir.absolutePath, '16x16_terrain.atlas')
   }
 }
+
+tasks.register('largeTerrainGeneration') {
+  doLast {
+    def spritesDir = new File(rootProject.projectDir, 'assets/raw/output')
+    def atlasDir = new File(rootProject.projectDir, 'assets/sprites/terrain')
+    def settingsFile = new File(rootProject.projectDir, 'assets/raw/output/pack.json')
+
+    // Ensure the atlas directory exists
+    atlasDir.mkdirs()
+
+    // Load settings from pack.json if it exists, otherwise use defaults
+    def settings = new TexturePacker.Settings()
+    if (settingsFile.exists()) {
+      def json = new Json()
+      settings = json.fromJson(TexturePacker.Settings.class, settingsFile.text)
+    }
+
+    TexturePacker.process(settings, spritesDir.absolutePath, atlasDir.absolutePath, '1024x1024_terrain.atlas')
+  }
+}
+

@@ -2,7 +2,7 @@ package com.liquidpixel.teavm;
 
 import com.github.xpenatan.gdx.backends.teavm.TeaApplicationConfiguration;
 import com.github.xpenatan.gdx.backends.teavm.TeaApplication;
-import com.liquidpixel.main.engine.Game;
+import com.liquidpixel.example.engine.Game;
 
 /**
  * Launches the TeaVM/HTML application.
